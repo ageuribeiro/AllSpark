@@ -1,0 +1,16 @@
+D:\Projetos\AllSpark\AllSpark.Application\bin\Debug\net9.0\AllSpark.Application.deps.json
+D:\Projetos\AllSpark\AllSpark.Application\bin\Debug\net9.0\AllSpark.Application.dll
+D:\Projetos\AllSpark\AllSpark.Application\bin\Debug\net9.0\AllSpark.Application.pdb
+D:\Projetos\AllSpark\AllSpark.Application\obj\Debug\net9.0\AllSpark.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\AllSpark\AllSpark.Application\obj\Debug\net9.0\AllSpark.Application.AssemblyInfoInputs.cache
+D:\Projetos\AllSpark\AllSpark.Application\obj\Debug\net9.0\AllSpark.Application.AssemblyInfo.cs
+D:\Projetos\AllSpark\AllSpark.Application\obj\Debug\net9.0\AllSpark.Application.csproj.CoreCompileInputs.cache
+D:\Projetos\AllSpark\AllSpark.Application\obj\Debug\net9.0\AllSpark.Application.dll
+D:\Projetos\AllSpark\AllSpark.Application\obj\Debug\net9.0\refint\AllSpark.Application.dll
+D:\Projetos\AllSpark\AllSpark.Application\obj\Debug\net9.0\AllSpark.Application.pdb
+D:\Projetos\AllSpark\AllSpark.Application\obj\Debug\net9.0\ref\AllSpark.Application.dll
+D:\Projetos\AllSpark\AllSpark.Application\bin\Debug\net9.0\AllSpark.Domain.dll
+D:\Projetos\AllSpark\AllSpark.Application\bin\Debug\net9.0\AllSpark.Domain.pdb
+D:\Projetos\AllSpark\AllSpark.Application\obj\Debug\net9.0\AllSpark.Application.csproj.AssemblyReference.cache
+D:\Projetos\AllSpark\AllSpark.Application\obj\Debug\net9.0\AllSpark.F83314A3.Up2Date
+D:\Projetos\AllSpark\AllSpark.Application\obj\Debug\net9.0\AllSpark.Application.sourcelink.json

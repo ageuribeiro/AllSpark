@@ -1,0 +1,16 @@
+D:\Projetos\AllSpark\AllSpark.Infra.Data\bin\Debug\net9.0\AllSpark.Infra.Data.deps.json
+D:\Projetos\AllSpark\AllSpark.Infra.Data\bin\Debug\net9.0\AllSpark.Infra.Data.dll
+D:\Projetos\AllSpark\AllSpark.Infra.Data\bin\Debug\net9.0\AllSpark.Infra.Data.pdb
+D:\Projetos\AllSpark\AllSpark.Infra.Data\obj\Debug\net9.0\AllSpark.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\AllSpark\AllSpark.Infra.Data\obj\Debug\net9.0\AllSpark.Infra.Data.AssemblyInfoInputs.cache
+D:\Projetos\AllSpark\AllSpark.Infra.Data\obj\Debug\net9.0\AllSpark.Infra.Data.AssemblyInfo.cs
+D:\Projetos\AllSpark\AllSpark.Infra.Data\obj\Debug\net9.0\AllSpark.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Projetos\AllSpark\AllSpark.Infra.Data\obj\Debug\net9.0\AllSpark.Infra.Data.dll
+D:\Projetos\AllSpark\AllSpark.Infra.Data\obj\Debug\net9.0\refint\AllSpark.Infra.Data.dll
+D:\Projetos\AllSpark\AllSpark.Infra.Data\obj\Debug\net9.0\AllSpark.Infra.Data.pdb
+D:\Projetos\AllSpark\AllSpark.Infra.Data\obj\Debug\net9.0\ref\AllSpark.Infra.Data.dll
+D:\Projetos\AllSpark\AllSpark.Infra.Data\bin\Debug\net9.0\AllSpark.Domain.dll
+D:\Projetos\AllSpark\AllSpark.Infra.Data\bin\Debug\net9.0\AllSpark.Domain.pdb
+D:\Projetos\AllSpark\AllSpark.Infra.Data\obj\Debug\net9.0\AllSpark.Infra.Data.csproj.AssemblyReference.cache
+D:\Projetos\AllSpark\AllSpark.Infra.Data\obj\Debug\net9.0\AllSpark.8ACB0CC4.Up2Date
+D:\Projetos\AllSpark\AllSpark.Infra.Data\obj\Debug\net9.0\AllSpark.Infra.Data.sourcelink.json

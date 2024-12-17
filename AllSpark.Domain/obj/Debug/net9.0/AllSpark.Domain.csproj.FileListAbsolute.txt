@@ -1,0 +1,12 @@
+D:\Projetos\AllSpark\AllSpark.Domain\bin\Debug\net9.0\AllSpark.Domain.deps.json
+D:\Projetos\AllSpark\AllSpark.Domain\bin\Debug\net9.0\AllSpark.Domain.dll
+D:\Projetos\AllSpark\AllSpark.Domain\bin\Debug\net9.0\AllSpark.Domain.pdb
+D:\Projetos\AllSpark\AllSpark.Domain\obj\Debug\net9.0\AllSpark.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\AllSpark\AllSpark.Domain\obj\Debug\net9.0\AllSpark.Domain.AssemblyInfoInputs.cache
+D:\Projetos\AllSpark\AllSpark.Domain\obj\Debug\net9.0\AllSpark.Domain.AssemblyInfo.cs
+D:\Projetos\AllSpark\AllSpark.Domain\obj\Debug\net9.0\AllSpark.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\AllSpark\AllSpark.Domain\obj\Debug\net9.0\AllSpark.Domain.dll
+D:\Projetos\AllSpark\AllSpark.Domain\obj\Debug\net9.0\refint\AllSpark.Domain.dll
+D:\Projetos\AllSpark\AllSpark.Domain\obj\Debug\net9.0\AllSpark.Domain.pdb
+D:\Projetos\AllSpark\AllSpark.Domain\obj\Debug\net9.0\ref\AllSpark.Domain.dll
+D:\Projetos\AllSpark\AllSpark.Domain\obj\Debug\net9.0\AllSpark.Domain.sourcelink.json

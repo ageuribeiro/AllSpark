@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AllSpark.Application\AllSpark.Application.csproj" />
+    <ProjectReference Include="..\AllSpark.Domain\AllSpark.Domain.csproj" />
+    <ProjectReference Include="..\AllSpark.Infra.Data\AllSpark.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
