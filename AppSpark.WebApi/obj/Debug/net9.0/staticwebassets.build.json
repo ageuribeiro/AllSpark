@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "LsCoUt3O8vquwtFmxle0T1UwIpSuWri4Sn3p9Vr+MPA=",
+  "Source": "AppSpark.WebApi",
+  "BasePath": "_content/AppSpark.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
