@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppSpark.MobileApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+19875318e3e39d69c82d9f35a7f84328ac3991e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+514e503ff62b741a65c252151ff30dd2a6bcba7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppSpark.MobileApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppSpark.MobileApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
